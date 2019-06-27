@@ -1,0 +1,2 @@
+# Google-Analytics-Python-Project
+With this project, I was required to create one geolocation segment that combines traffic originating from either RI or NY. I exported January 2019 users and pageviews by day for the segment to a CVS file to create two visualizations showing page views by week for the segment and page views/user by day for the segment. I Used python to read the cvs file and to create visualizations.
